@@ -33,9 +33,9 @@ I'm open to collaborations that challenge the status quo and spark innovation. I
 
 ## Get in Touch
 
-- **LinkedIn**: [Connect with me](#)
-- **Twitter**: [Follow my journey](#)
-- **Email**: [Drop me a line](mailto:)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/abhishek-kumar03/)
+- **Twitter**: [Follow my journey](https://twitter.com/thearkknight01)
+- **Email**: [Drop me a line](mailto:Abhishekkumaronroute@gmail.com)
 
 > "You have to dream before your dreams can come true." — A. P. J. Abdul Kalam
 
