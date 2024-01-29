@@ -6,7 +6,7 @@ ASPIRING TECH ENTHUSIAST AND AN AVID LEARNER
 
 a dedicated computer science student with a versatile technical skill set, proficient in C/C++ and Python. My true passion lies in the dynamic realm of machine learning and artificial intelligence, where I not only demonstrate technical expertise but also embody innovative thinking. I am driven by a commitment to continuous learning and a forward-thinking approach to technology. Eager to contribute meaningfully to these evolving fields, I seek opportunities to apply my skills and contribute to the transformative landscape of machine learning and AI, reflecting a blend of proficiency, passion, and a visionary mindset.
 
-* 🌍  I'm based in Bangalore
+* 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [https://the-ark-knight.github.io/AbhishekKumar/](http://https://the-ark-knight.github.io/AbhishekKumar/)
 * ✉️  You can contact me at [Abhishekkumaronroute@gmail.com](mailto:Abhishekkumaronroute@gmail.com)
 * 🧠  I'm learning Natural Language Processing
