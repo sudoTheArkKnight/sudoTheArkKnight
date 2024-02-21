@@ -1,3 +1,6 @@
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=the-ark-knight&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
 # 💫 About Me:
 
 ### 🚀 I’m currently working on:
@@ -58,9 +61,6 @@ Possess a growth mindset and always eager to expand knowledge and skills through
 ![](https://github-readme-stats.vercel.app/api?username=the-ark-knight&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-ark-knight&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ark-knight&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=the-ark-knight&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
