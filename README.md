@@ -7,6 +7,7 @@ Generating Bhagavad Gita quotes: Check out my "Bhagavada-Gita-Quotes-Generator" 
 Predicting random numbers: Explore my "RandomNumberPrediction" project, where I showcase my exploration of machine learning techniques for real-world tasks.
 Simplifying remote development setups: Take a look at my "RemoteEnvironmentSetup" project to see how I focus on streamlining workflows and improving efficiency.
 Exploring various machine learning techniques: Check out my "15-Machine-Learning-Projects" repository to see how I'm actively working on diverse machine learning projects to gain practical experience.
+
 ----
 
 ### 🤝 I’m looking to collaborate on:
@@ -14,6 +15,7 @@ Exploring various machine learning techniques: Check out my "15-Machine-Learning
 Machine learning projects, particularly in linear regression and natural language processing: Interested in projects involving these areas? Let's collaborate!
 Open-source projects aligned with my interests: I'm open to contributing to open-source projects, especially those related to machine learning and Python development.
 Projects leveraging Python expertise: Have a project that could benefit from my Python knowledge? Let's connect and collaborate!
+
 ----
 
 ### 🔍 I’m looking for help with:
@@ -21,12 +23,14 @@ Projects leveraging Python expertise: Have a project that could benefit from my 
 Finding datasets for machine learning projects: I'm actively searching for datasets and would appreciate any leads or suggestions.
 Improving linear regression ,NLP and CV skills: Open to feedback and suggestions on my code or project approaches in these areas.
 Staying up-to-date with machine learning advancements: Always looking to learn and grow, so any tips on staying informed are welcome!
+
 ----
 
 ### 📚 I’m currently learning:
 Natural language processing (NLP): Exploring NLP through various resources to deepen my understanding and practical skills.
 Linear regression: Actively learning and practicing linear regression techniques to enhance my proficiency.
 Computer Vision: Delving into mastering Computer Vision through Project, Tutorials and courses.
+
 ----
 
 ### 💡 Ask me about:
@@ -34,6 +38,7 @@ Computer Vision: Delving into mastering Computer Vision through Project, Tutoria
 Machine learning, linear regression, and NLP: Passionate about these areas, so let's discuss projects, ideas, or insights!
 Pandas library and data manipulation: Knowledgeable about using Pandas effectively, so feel free to ask anything related to data manipulation.
 Simplifying remote development workflows: Expertise in streamlining development environments and automation techniques.
+
 ----
 
 ### ⚡ Fun fact:
