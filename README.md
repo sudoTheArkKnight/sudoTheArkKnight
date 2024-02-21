@@ -64,7 +64,6 @@ Possess a growth mindset and always eager to expand knowledge and skills through
 ![](https://github-readme-streak-stats.herokuapp.com/?user=the-ark-knight&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-ark-knight&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -78,3 +77,5 @@ Possess a growth mindset and always eager to expand knowledge and skills through
 ---
 [![](https://visitcount.itsvg.in/api?id=the-ark-knight&icon=2&color=0)](https://visitcount.itsvg.in)
 
+
+</div>
