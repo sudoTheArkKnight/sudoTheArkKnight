@@ -5,15 +5,7 @@
 
 ### 🚀 I’m currently working on:
 
-- **Deepening Pandas Proficiency:** Actively expanding my knowledge of the Pandas library through my "Pandas Notes" repository, where I delve into advanced data manipulation techniques.
-  
-- **Bhagavad Gita Quotes Generation:** Exploring practical applications of Python by creating a "Bhagavada-Gita-Quotes-Generator" project, showcasing my coding creativity and spiritual interests.
-  
-- **Machine Learning Exploration:** Engaging in diverse machine learning projects, including the "RandomNumberPrediction" project, where I apply machine learning techniques to real-world scenarios.
-  
-- **Optimizing Remote Development:** Focusing on streamlining remote development setups through my "RemoteEnvironmentSetup" project, aimed at enhancing workflow efficiency and productivity.
-  
-- **Diverse Machine Learning Projects:** Actively involved in various machine learning endeavors, as showcased in my "15-Machine-Learning-Projects" repository, where I gain practical experience across different ML domains.
+On a lot of Intersting things: You will soon see :-)
 
 ----
 
@@ -23,7 +15,7 @@
   
 - **Open-Source Initiatives:** Eager to contribute to open-source projects aligned with my interests, especially those centered around machine learning and Python development.
   
-- **Python Expertise Projects:** Seeking opportunities to contribute my Python proficiency to projects that could benefit from efficient coding and innovative solutions.
+- **Automation Projects:** Seeking opportunities to contribute my Python proficiency to projects that could benefit from efficient coding and innovative solutions.
 
 ----
 
@@ -39,11 +31,11 @@
 
 ### 📚 I’m currently learning:
 
-- **Natural Language Processing (NLP):** Exploring NLP concepts and techniques through various resources to deepen my understanding and practical application skills.
+- **Mahcine Learning Algorithms and their implementation**: I am currently making as many projects as I can in the Machine Learning Space to really get a hold of the technology and prepare for the journey ahead.
   
-- **Linear Regression:** Actively learning and practicing linear regression techniques to sharpen my predictive modeling abilities and statistical analysis proficiency.
-  
-- **Computer Vision:** Delving into mastering Computer Vision principles and applications through hands-on projects, tutorials, and specialized courses.
+- **Python**: This is the language i use most often along JS to do most of my programming work and it is increasingly important to have a great command on the working of this language, its strenghts and weaknessess.
+
+- **JavaScript**: This is the language I use almost as much as Python. I am currently working on deepening my understading of the language and learning different frameworks that will become indisposable in my journey.
 
 ----
 
